@@ -1,6 +1,13 @@
 // Servicio para subir data de gatos y perros a Firebase Firestore
 
-require('dotenv').config();
+if (process.env.NODE_ENV !== 'production') {
+  // Solo cargar dotenv en desarrollo/local
+  try {
+    require('dotenv').config();
+  } catch (e) {
+    // Ignorar si dotenv no está instalado en producción
+  }
+}
 
 if (!process.env.FIREBASE_PROJECT_ID || !process.env.FIREBASE_CLIENT_EMAIL || !process.env.FIREBASE_PRIVATE_KEY) {
   throw new Error('Faltan variables de entorno de Firebase. Revisa tu archivo .env');
