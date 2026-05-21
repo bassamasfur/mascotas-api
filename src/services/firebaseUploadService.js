@@ -26,7 +26,7 @@ async function uploadBreeds(jsonPath, collectionName) {
   console.log(`Colección ${collectionName} borrada.`);
 
   // 2. Subir los nuevos datos
-  const absolutePath = path.join(__dirname, '../../', jsonPath);
+  const absolutePath = path.join(process.cwd(), jsonPath);
   const data = JSON.parse(fs.readFileSync(absolutePath, 'utf8'));
   let count = 0;
   for (const breed of data) {
