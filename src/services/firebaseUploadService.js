@@ -1,5 +1,15 @@
 // Servicio para subir data de gatos y perros a Firebase Firestore
 
+require('dotenv').config();
+
+// Depuración: imprimir variables de entorno críticas
+console.log('FIREBASE_PROJECT_ID:', process.env.FIREBASE_PROJECT_ID ? '[OK]' : '[NO DEFINIDA]');
+console.log('FIREBASE_CLIENT_EMAIL:', process.env.FIREBASE_CLIENT_EMAIL ? '[OK]' : '[NO DEFINIDA]');
+console.log('FIREBASE_PRIVATE_KEY:', process.env.FIREBASE_PRIVATE_KEY ? '[OK]' : '[NO DEFINIDA]');
+
+if (!process.env.FIREBASE_PROJECT_ID || !process.env.FIREBASE_CLIENT_EMAIL || !process.env.FIREBASE_PRIVATE_KEY) {
+  throw new Error('Faltan variables de entorno de Firebase. Revisa tu archivo .env');
+}
 const admin = require('firebase-admin');
 const fs = require('fs');
 const path = require('path');
