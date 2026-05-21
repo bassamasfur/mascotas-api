@@ -1,6 +1,8 @@
 // Servicio para subir data de gatos y perros a Firebase Firestore
+
 const admin = require('firebase-admin');
 const fs = require('fs');
+const path = require('path');
 
 
 admin.initializeApp({
@@ -24,7 +26,8 @@ async function uploadBreeds(jsonPath, collectionName) {
   console.log(`Colección ${collectionName} borrada.`);
 
   // 2. Subir los nuevos datos
-  const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+  const absolutePath = path.join(__dirname, '../../', jsonPath);
+  const data = JSON.parse(fs.readFileSync(absolutePath, 'utf8'));
   let count = 0;
   for (const breed of data) {
     // Usa el campo 'id' como identificador único
