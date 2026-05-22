@@ -8,7 +8,7 @@
     "cuidados": ["Ejercicio diario", "Dieta balanceada", "Cepillado semanal", "Revisiones veterinarias"],
     "salud": ["Displasia de cadera", "Obesidad", "Problemas oculares"],
     "curiosidades": ["Originario de Terranova", "Excelentes nadadores", "Usados como perros de servicio"],
-    "imagen_url": "/imagenes/perros/Labrador Retriever.png"
+    "imagen_url": "/imagenes/perros/labrador_retriever.png"
   },
   {
     "id": "2",
@@ -19,7 +19,7 @@
     "cuidados": ["Entrenamiento constante", "Ejercicio intenso", "Cepillado frecuente"],
     "salud": ["Displasia de cadera", "Problemas digestivos"],
     "curiosidades": ["Usado en policía y rescate", "Muy obediente"],
-    "imagen_url": "/imagenes/perros/Pastor Alemán.png"
+    "imagen_url": "/imagenes/perros/pastor_aleman.png"
   },
   {
     "id": "3",
@@ -52,7 +52,7 @@
     "cuidados": ["Paseos cortos", "Evitar calor extremo", "Revisiones veterinarias"],
     "salud": ["Problemas respiratorios", "Alergias"],
     "curiosidades": ["Popular en ciudades", "Muy buen perro de compañía"],
-    "imagen_url": "/imagenes/perros/Bulldog Francés.png"
+    "imagen_url": "/imagenes/perros/bulldog_frances.png"
   },
   {
     "id": "6",
