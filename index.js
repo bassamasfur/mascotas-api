@@ -5,6 +5,9 @@ const mascotasRoutes = require('./src/routes/mascotasRoutes');
 const app = express();
 app.use(bodyParser.json());
 
+// Exponer la carpeta imagenes como estática
+app.use('/imagenes', express.static('imagenes'));
+
 app.use('/api/mascotas', mascotasRoutes);
 
 const PORT = process.env.PORT || 3000;

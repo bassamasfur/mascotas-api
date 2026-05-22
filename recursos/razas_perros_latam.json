@@ -8,7 +8,7 @@
     "cuidados": ["Ejercicio diario", "Dieta balanceada", "Cepillado semanal", "Revisiones veterinarias"],
     "salud": ["Displasia de cadera", "Obesidad", "Problemas oculares"],
     "curiosidades": ["Originario de Terranova", "Excelentes nadadores", "Usados como perros de servicio"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Labrador_Retriever_yellow.jpg"
+    "imagen_url": "/imagenes/perros/Labrador Retriever.png"
   },
   {
     "id": "2",
@@ -19,7 +19,7 @@
     "cuidados": ["Entrenamiento constante", "Ejercicio intenso", "Cepillado frecuente"],
     "salud": ["Displasia de cadera", "Problemas digestivos"],
     "curiosidades": ["Usado en policía y rescate", "Muy obediente"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/German_Shepherd.jpg"
+    "imagen_url": "/imagenes/perros/Pastor Alemán.png"
   },
   {
     "id": "3",
@@ -30,7 +30,7 @@
     "cuidados": ["Cepillado regular", "Ejercicio moderado", "Dieta balanceada"],
     "salud": ["Problemas de piel", "Epilepsia"],
     "curiosidades": ["Originario de Francia", "Muy usado en competencias de agility"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Poodle_white.jpg"
+    "imagen_url": "/imagenes/perros/Poodle.png"
   },
   {
     "id": "4",
@@ -41,7 +41,7 @@
     "cuidados": ["Ejercicio diario", "Dieta balanceada", "Cepillado regular"],
     "salud": ["Problemas de oído", "Obesidad"],
     "curiosidades": ["Originario de Inglaterra", "Excelente perro de caza"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Beagle_600.jpg"
+    "imagen_url": "/imagenes/perros/Beagle.png"
   },
   {
     "id": "5",
@@ -52,7 +52,7 @@
     "cuidados": ["Paseos cortos", "Evitar calor extremo", "Revisiones veterinarias"],
     "salud": ["Problemas respiratorios", "Alergias"],
     "curiosidades": ["Popular en ciudades", "Muy buen perro de compañía"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/French_Bulldog.jpg"
+    "imagen_url": "/imagenes/perros/Bulldog Francés.png"
   },
   {
     "id": "6",
