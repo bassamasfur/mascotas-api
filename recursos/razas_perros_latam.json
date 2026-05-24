@@ -8,7 +8,7 @@
     "cuidados": ["Ejercicio diario", "Dieta balanceada", "Cepillado semanal", "Revisiones veterinarias"],
     "salud": ["Displasia de cadera", "Obesidad", "Problemas oculares"],
     "curiosidades": ["Originario de Terranova", "Excelentes nadadores", "Usados como perros de servicio"],
-    "imagen_url": "/imagenes/perros/labrador_retriever.png"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Labrador%20Retriever.png"
   },
   {
     "id": "2",
@@ -19,7 +19,7 @@
     "cuidados": ["Entrenamiento constante", "Ejercicio intenso", "Cepillado frecuente"],
     "salud": ["Displasia de cadera", "Problemas digestivos"],
     "curiosidades": ["Usado en policía y rescate", "Muy obediente"],
-    "imagen_url": "/imagenes/perros/pastor_aleman.png"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Pastor%20Alem%C3%A1n.png"
   },
   {
     "id": "3",
@@ -30,7 +30,7 @@
     "cuidados": ["Cepillado regular", "Ejercicio moderado", "Dieta balanceada"],
     "salud": ["Problemas de piel", "Epilepsia"],
     "curiosidades": ["Originario de Francia", "Muy usado en competencias de agility"],
-    "imagen_url": "/imagenes/perros/Poodle.png"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Poodle.png"
   },
   {
     "id": "4",
@@ -41,7 +41,7 @@
     "cuidados": ["Ejercicio diario", "Dieta balanceada", "Cepillado regular"],
     "salud": ["Problemas de oído", "Obesidad"],
     "curiosidades": ["Originario de Inglaterra", "Excelente perro de caza"],
-    "imagen_url": "/imagenes/perros/Beagle.png"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Beagle.png"
   },
   {
     "id": "5",
@@ -52,7 +52,7 @@
     "cuidados": ["Paseos cortos", "Evitar calor extremo", "Revisiones veterinarias"],
     "salud": ["Problemas respiratorios", "Alergias"],
     "curiosidades": ["Popular en ciudades", "Muy buen perro de compañía"],
-    "imagen_url": "/imagenes/perros/bulldog_frances.png"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Bulldog%20Franc%C3%A9s.png"
   },
   {
     "id": "6",
@@ -63,7 +63,7 @@
     "cuidados": ["Ejercicio diario", "Cepillado frecuente", "Dieta balanceada"],
     "salud": ["Displasia de cadera", "Problemas cardíacos"],
     "curiosidades": ["Originario de Escocia", "Excelente perro de familia"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Golden_Retriever.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Golden%20Retriever.png"
   },
   {
     "id": "7",
@@ -74,7 +74,7 @@
     "cuidados": ["Abrigo en climas fríos", "Ejercicio moderado", "Dieta controlada"],
     "salud": ["Problemas dentales", "Luxación de rótula"],
     "curiosidades": ["Originario de México", "Una de las razas más pequeñas del mundo"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Chihuahua1_bvdb.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Chihuahua.png"
   },
   {
     "id": "8",
@@ -85,7 +85,7 @@
     "cuidados": ["Cepillado regular", "Ejercicio diario", "Entrenamiento constante"],
     "salud": ["Problemas oculares", "Pancreatitis"],
     "curiosidades": ["Originario de Alemania", "Existen tres variedades: miniatura, estándar y gigante"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Schnauzer.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Schnauzer.png"
   },
   {
     "id": "9",
@@ -96,7 +96,7 @@
     "cuidados": ["Cepillado diario", "Ejercicio moderado", "Revisiones veterinarias"],
     "salud": ["Problemas respiratorios", "Alergias cutáneas"],
     "curiosidades": ["Originario de China", "Históricamente perro de compañía en la realeza"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Shih_Tzu_1.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Shih%20Tzu.png"
   },
   {
     "id": "10",
@@ -107,7 +107,7 @@
     "cuidados": ["Ejercicio moderado", "Evitar saltos por su columna larga", "Dieta balanceada"],
     "salud": ["Problemas de columna (hernia discal)", "Obesidad"],
     "curiosidades": ["Originario de Alemania", "Conocido como perro salchicha"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Dachshund.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Dachshund.png"
   },
   {
     "id": "11",
@@ -118,7 +118,7 @@
     "cuidados": ["Cepillado diario", "Ejercicio moderado", "Dieta balanceada"],
     "salud": ["Problemas dentales", "Luxación de rótula"],
     "curiosidades": ["Originario de Inglaterra", "Muy popular como perro de compañía"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Yorkshire_Terrier.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Yorkshire%20Terrier.png"
   },
   {
     "id": "12",
