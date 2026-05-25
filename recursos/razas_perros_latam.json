@@ -228,7 +228,7 @@
     "cuidados": ["Ejercicio moderado", "Dieta balanceada", "Socialización"],
     "salud": ["Luxación de rótula", "Problemas dentales"],
     "curiosidades": ["Originario de Alemania", "Conocido como el 'Rey de los Toy'"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/MinPin.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Pinscher%20Miniatura.png"
   },
   {
     "id": "22",
@@ -239,7 +239,7 @@
     "cuidados": ["Cepillado frecuente", "Ejercicio moderado", "Revisiones veterinarias"],
     "salud": ["Alergias cutáneas", "Problemas dentales"],
     "curiosidades": ["Originario de Europa (España/Francia)", "Muy popular como perro de compañía"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bichon_Frise.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Bich%C3%B3n%20Fris%C3%A9.png"
   },
   {
     "id": "23",
@@ -250,7 +250,7 @@
     "cuidados": ["Ejercicio moderado", "Entrenamiento firme", "Socialización temprana"],
     "salud": ["Problemas autoinmunes", "Displasia de cadera"],
     "curiosidades": ["Originario de Japón", "Símbolo de lealtad (Hachiko)"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Akita_Inu.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Akita%20Inu.png"
   },
   {
     "id": "24",
