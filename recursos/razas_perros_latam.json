@@ -129,7 +129,7 @@
     "cuidados": ["Ejercicio intenso", "Entrenamiento constante", "Revisiones veterinarias"],
     "salud": ["Problemas cardíacos", "Displasia de cadera"],
     "curiosidades": ["Originario de Alemania", "Muy usado como perro guardián"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Boxer_dog.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Boxer.png"
   },
   {
     "id": "13",
@@ -173,7 +173,7 @@
     "cuidados": ["Ejercicio intenso", "Entrenamiento constante", "Estimulación mental"],
     "salud": ["Displasia de cadera", "Epilepsia"],
     "curiosidades": ["Originario de la frontera entre Escocia e Inglaterra", "Considerado la raza más inteligente"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Border_Collie.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Border%20Collie.png"
   },
   {
     "id": "17",
@@ -184,7 +184,7 @@
     "cuidados": ["Ejercicio intenso", "Ambiente frío preferido", "Cepillado frecuente"],
     "salud": ["Problemas oculares", "Displasia de cadera"],
     "curiosidades": ["Originario de Siberia", "Usado históricamente como perro de trineo"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Siberian_Husky_blue_eyes.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Siberian%20Husky.png"
   },
   {
     "id": "18",
@@ -195,7 +195,7 @@
     "cuidados": ["Cepillado diario", "Ejercicio moderado", "Dieta balanceada"],
     "salud": ["Problemas dentales", "Luxación de rótula"],
     "curiosidades": ["Originario de la región mediterránea", "Históricamente perro de compañía en la nobleza"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Maltese_dog.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Malt%C3%A9s.png"
   },
   {
     "id": "19",
@@ -206,7 +206,7 @@
     "cuidados": ["Paseos cortos", "Evitar calor extremo", "Revisiones veterinarias frecuentes"],
     "salud": ["Problemas respiratorios", "Displasia de cadera", "Obesidad"],
     "curiosidades": ["Originario de Inglaterra", "Símbolo cultural británico"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/English_Bulldog.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Bulldog%20Ingl%C3%A9s.png"
   },
   {
     "id": "20",
@@ -217,7 +217,7 @@
     "cuidados": ["Entrenamiento firme", "Ejercicio intenso", "Socialización temprana"],
     "salud": ["Problemas cardíacos", "Displasia de cadera"],
     "curiosidades": ["Originario de Alemania", "Usado como perro guardián y de trabajo"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dobermann.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Doberman.png"
   },
   {
     "id": "21",
