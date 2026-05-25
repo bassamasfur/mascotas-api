@@ -261,7 +261,7 @@
     "cuidados": ["Paseos diarios", "Evitar calor extremo", "Revisiones veterinarias"],
     "salud": ["Problemas respiratorios", "Problemas oculares"],
     "curiosidades": ["Originario de Estados Unidos", "Conocido como el 'Caballero Americano'"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Boston_Terrier.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Boston%20Terrier.png"
   },
   {
     "id": "25",
@@ -272,7 +272,7 @@
     "cuidados": ["Ejercicio intenso diario", "Entrenamiento constante", "Dieta balanceada"],
     "salud": ["Sordera congénita", "Problemas urinarios", "Alergias cutáneas"],
     "curiosidades": ["Originario de Croacia", "Famoso por sus manchas y como perro bombero"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Dalmatian_Puppy.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/D%C3%A1lmata.png"
   },
   {
     "id": "26",
@@ -283,7 +283,7 @@
     "cuidados": ["Ejercicio moderado", "Cepillado frecuente", "Control de calor"],
     "salud": ["Displasia de cadera", "Problemas cardíacos", "Bloat"],
     "curiosidades": ["Originario de Suiza", "Usado históricamente en rescates alpinos"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/St_Bernard_dog.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/San%20Bernardo.png"
   },
   {
     "id": "27",
@@ -294,7 +294,7 @@
     "cuidados": ["Ejercicio moderado", "Entrenamiento temprano", "Supervisión con niños"],
     "salud": ["Bloat", "Problemas cardíacos", "Displasia de cadera"],
     "curiosidades": ["Originario de Alemania", "Apodado 'Apolo de los perros'"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Great_Dane.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Gran%20Dan%C3%A9s.png"
   },
   {
     "id": "28",
@@ -305,7 +305,7 @@
     "cuidados": ["Ejercicio moderado", "Cepillado semanal", "Cuidado de pliegues"],
     "salud": ["Problemas cutáneos", "Entropión ocular", "Dificultades respiratorias"],
     "curiosidades": ["Originario de China", "Reconocido por su piel arrugada"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Shar_Pei.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Shar%E2%80%A0Pei.png"
   },
   {
     "id": "29",
@@ -316,7 +316,7 @@
     "cuidados": ["Ejercicio moderado", "Espacios seguros para correr", "Abrigo en invierno"],
     "salud": ["Problemas cardíacos", "Artritis", "Alta sensibilidad a anestesia"],
     "curiosidades": ["Originario de Inglaterra", "El perro más rápido del mundo"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Greyhound.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Greyhound.png"
   },
   {
     "id": "30",
@@ -327,7 +327,7 @@
     "cuidados": ["Ejercicio intenso", "Entrenamiento constante", "Evitar soledad"],
     "salud": ["Displasia de cadera", "Bloat", "Ansiedad por separación"],
     "curiosidades": ["Originario de Alemania", "Apodado 'fantasma gris'"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Weimaraner.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Weimaraner.png"
   },
   {
     "id": "31",
@@ -338,7 +338,7 @@
     "cuidados": ["Ejercicio diario", "Cepillado frecuente", "Entrenamiento positivo"],
     "salud": ["Displasia de cadera", "Bloat", "Cáncer"],
     "curiosidades": ["Originario de Irlanda", "Conocido por su pelaje rojo brillante"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Irish_Setter.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Setter%E2%80%A0Irland%C3%A9s.png"
   },
   {
     "id": "32",
@@ -349,7 +349,7 @@
     "cuidados": ["Ejercicio moderado", "Espacios seguros para correr", "Abrigo en invierno"],
     "salud": ["Problemas cardíacos", "Sensibilidad a anestesia"],
     "curiosidades": ["Originario de Inglaterra", "Apodado 'el galgo de los pobres'"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Whippet.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Whippet.png"
   },
   {
     "id": "33",
@@ -360,7 +360,7 @@
     "cuidados": ["Ejercicio intenso", "Entrenamiento firme", "Socialización temprana"],
     "salud": ["Displasia de cadera", "Sordera congénita"],
     "curiosidades": ["Originario de Argentina", "Usado para caza mayor"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dogo_Argentino.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Dogo%E2%80%A0Argentino.png"
   },
   {
     "id": "34",
@@ -371,7 +371,7 @@
     "cuidados": ["Ejercicio diario", "Entrenamiento constante", "Cepillado según tipo de pelo"],
     "salud": ["Luxación de rótula", "Problemas oculares"],
     "curiosidades": ["Originario de Inglaterra", "Existen variedades Smooth y Wire"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Wire_Fox_Terrier.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Fox%E2%80%A0Terrier.png"
   },
   {
     "id": "35",
