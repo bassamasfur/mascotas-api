@@ -375,7 +375,7 @@
   },
   {
     "id": "35",
-    "nombre": "Mestizo Pequeño de Pelo Corto",
+    "nombre": "Mestizo Pequeño",
     "especie": "Perro",
     "caracteristicas": { "tamano": "Pequeño", "peso": "5–10 kg", "vida": "12–15 años" },
     "temperamento": ["Cariñoso", "Activo", "Adaptable"],
@@ -386,7 +386,7 @@
   },
   {
     "id": "36",
-    "nombre": "Mestizo Mediano de Pelo Largo",
+    "nombre": "Mestizo Mediano",
     "especie": "Perro",
     "caracteristicas": { "tamano": "Mediano", "peso": "15–25 kg", "vida": "10–14 años" },
     "temperamento": ["Leal", "Sociable", "Enérgico"],
@@ -397,7 +397,7 @@
   },
   {
     "id": "37",
-    "nombre": "Mestizo Grande de Pelo Corto",
+    "nombre": "Mestizo Grande",
     "especie": "Perro",
     "caracteristicas": { "tamano": "Grande", "peso": "25–40 kg", "vida": "8–12 años" },
     "temperamento": ["Protector", "Tranquilo", "Fiel"],
