@@ -382,7 +382,7 @@
     "cuidados": ["Ejercicio moderado", "Cepillado ocasional", "Dieta balanceada"],
     "salud": ["Problemas dentales", "Luxación de rótula"],
     "curiosidades": ["Muy común en adopciones urbanas", "Se adapta bien a departamentos"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mixed_breed_small_dog.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Mestizo%20Peque%C3%B1o.png"
   },
   {
     "id": "36",
@@ -393,7 +393,7 @@
     "cuidados": ["Cepillado frecuente", "Ejercicio diario", "Revisiones veterinarias"],
     "salud": ["Otitis por acumulación de pelo", "Displasia de cadera"],
     "curiosidades": ["Frecuente en zonas rurales", "Suelen ser excelentes guardianes"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mixed_breed_medium_dog.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Mestizo%20Mediano.png"
   },
   {
     "id": "37",
@@ -404,6 +404,6 @@
     "cuidados": ["Ejercicio moderado", "Entrenamiento básico", "Alimentación controlada"],
     "salud": ["Problemas articulares", "Obesidad"],
     "curiosidades": ["Comunes en adopciones de refugios", "Suelen ser guardianes naturales"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mixed_breed_large_dog.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/perros/Mestizo%20Grande.png"
   }
 ]
