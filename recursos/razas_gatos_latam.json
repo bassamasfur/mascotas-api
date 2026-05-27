@@ -8,7 +8,7 @@
     "cuidados": ["Juegos interactivos", "Compañía constante", "Cepillado semanal"],
     "salud": ["Problemas cardíacos", "Enfermedades respiratorias", "Estrabismo"],
     "curiosidades": ["Originario de Tailandia", "Conocido por sus ojos azules y patrón colorpoint"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Siamese_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Siam%C3%A9s.png"
   },
   {
     "id": "2",
@@ -19,7 +19,7 @@
     "cuidados": ["Cepillado diario", "Limpieza de ojos", "Alimentación controlada"],
     "salud": ["Problemas respiratorios", "Poliquistosis renal", "Obesidad"],
     "curiosidades": ["Originario de Irán", "Popularizado por la realeza europea en el siglo XIX"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Persian_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Persa.png"
   },
   {
     "id": "3",
@@ -30,7 +30,7 @@
     "cuidados": ["Cepillado frecuente", "Ejercicio moderado", "Dieta rica en proteínas"],
     "salud": ["Cardiomiopatía hipertrófica", "Problemas articulares"],
     "curiosidades": ["Originario de EE.UU. (Maine)", "Conocido como el 'gigante gentil'"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Maine_Coon_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Maine%20Coon.png"
   },
   {
     "id": "4",
@@ -41,7 +41,7 @@
     "cuidados": ["Cepillado semanal", "Ejercicio moderado", "Revisiones veterinarias"],
     "salud": ["Obesidad", "Problemas dentales"],
     "curiosidades": ["Originario del Reino Unido", "Inspiró al 'Gato de Cheshire' de Lewis Carroll"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/British_Shorthair_blue.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Brit%C3%A1nico.png"
   },
   {
     "id": "5",
@@ -52,7 +52,7 @@
     "cuidados": ["Cepillado regular", "Juegos moderados", "Control de peso"],
     "salud": ["Cardiomiopatía hipertrófica", "Obesidad"],
     "curiosidades": ["Originario de California en los años 60", "Se relaja completamente al ser cargado"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ragdoll_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Ragdoll.png"
   },
   {
     "id": "6",
