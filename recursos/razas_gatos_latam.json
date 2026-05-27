@@ -63,7 +63,7 @@
     "cuidados": ["Ejercicio intenso", "Juegos interactivos", "Espacios para trepar"],
     "salud": ["Cardiomiopatía hipertrófica", "Problemas digestivos"],
     "curiosidades": ["Cruce entre gato doméstico y gato leopardo asiático", "Conocido por su pelaje manchado tipo leopardo"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bengal_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Bengal%C3%AD.png"
   },
   {
     "id": "7",
@@ -74,7 +74,7 @@
     "cuidados": ["Cepillado frecuente", "Ejercicio moderado", "Ambientes enriquecidos"],
     "salud": ["Cardiomiopatía hipertrófica", "Problemas renales", "Obesidad"],
     "curiosidades": ["Originario de Rusia", "Considerado hipoalergénico por producir menos proteína Fel d 1"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Siberian_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Siberiano.png"
   },
   {
     "id": "8",
@@ -85,7 +85,7 @@
     "cuidados": ["Juegos interactivos", "Compañía constante", "Cepillado ocasional"],
     "salud": ["Deficiencia de piruvato quinasa", "Problemas oculares", "Amiloidosis renal"],
     "curiosidades": ["Uno de los gatos más antiguos", "Conocido como el 'payaso del reino felino' por su carácter juguetón"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Abyssinian_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Abisinio.png"
   },
   {
     "id": "9",
@@ -96,18 +96,18 @@
     "cuidados": ["Compañía constante", "Juegos moderados", "Cepillado semanal"],
     "salud": ["Atrofia progresiva de retina", "Problemas hepáticos"],
     "curiosidades": ["Parte de la familia del Siamés", "Conocido como 'gato arcoíris' por sus más de 300 variaciones de color"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Oriental_shorthair_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Oriental.png"
   },
   {
     "id": "10",
-    "nombre": "Exótico de pelo corto",
+    "nombre": "Exótico",
     "especie": "Gato",
     "caracteristicas": { "tamano": "Mediano", "peso": "3–6 kg", "vida": "12–15 años" },
     "temperamento": ["Tranquilo", "Cariñoso", "Leal"],
     "cuidados": ["Cepillado semanal", "Revisiones veterinarias", "Dieta controlada"],
     "salud": ["Cardiomiopatía hipertrófica", "Poliquistosis renal", "Problemas respiratorios"],
     "curiosidades": ["Apodado 'el Persa de pelo corto'", "Popular por su carácter dócil y fácil cuidado"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Exotic_Shorthair_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Ex%C3%B3tico.png"
   },
   {
     "id": "11",
@@ -118,7 +118,7 @@
     "cuidados": ["Baños regulares", "Protección contra el frío", "Alimentación balanceada"],
     "salud": ["Problemas cardíacos", "Dermatitis", "Sensibilidad al clima"],
     "curiosidades": ["Originario de Canadá", "Conocido por su ausencia de pelaje"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sphynx_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Sphynx.png"
   },
   {
     "id": "12",
@@ -129,7 +129,7 @@
     "cuidados": ["Cepillado semanal", "Ejercicio moderado", "Revisiones veterinarias"],
     "salud": ["Problemas articulares", "Osteocondrodisplasia"],
     "curiosidades": ["Originario de Escocia", "Famoso por sus orejas dobladas hacia adelante"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Scottish_Fold_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Scottish%20Fold.png"
   },
   {
     "id": "13",
@@ -140,7 +140,7 @@
     "cuidados": ["Ejercicio moderado", "Juegos interactivos", "Cepillado ocasional"],
     "salud": ["Problemas cardíacos", "Obesidad"],
     "curiosidades": ["Originario de EE.UU.", "Conocido como 'mini pantera' por su pelaje negro brillante"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bombay_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Bombay.png"
   },
   {
     "id": "14",
@@ -151,7 +151,7 @@
     "cuidados": ["Cepillado regular", "Juegos moderados", "Control de peso"],
     "salud": ["Problemas cardíacos", "Obesidad"],
     "curiosidades": ["Originario de Birmania", "Conocido por sus patas blancas y ojos azules"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Birman_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Birmano.png"
   },
   {
     "id": "15",
@@ -162,7 +162,7 @@
     "cuidados": ["Cepillado diario", "Limpieza de ojos", "Alimentación controlada"],
     "salud": ["Problemas respiratorios", "Poliquistosis renal", "Obesidad"],
     "curiosidades": ["Cruce entre Persa y Siamés", "Conocido por su pelaje largo y patrón colorpoint"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Himalayan_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Himalayo.png"
   },
   {
     "id": "16",
@@ -173,18 +173,18 @@
     "cuidados": ["Ejercicio moderado", "Cepillado semanal", "Revisiones veterinarias"],
     "salud": ["Problemas de columna", "Artritis"],
     "curiosidades": ["Originario de la Isla de Man", "Conocido por no tener cola o tenerla muy corta"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Manx_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Manx.png"
   },
   {
     "id": "17",
-    "nombre": "Noruego de los bosques",
+    "nombre": "Noruego",
     "especie": "Gato",
     "caracteristicas": { "tamano": "Grande", "peso": "5–9 kg", "vida": "12–16 años" },
     "temperamento": ["Independiente", "Cariñoso", "Atlético"],
     "cuidados": ["Cepillado frecuente", "Espacios amplios", "Ejercicio moderado"],
     "salud": ["Cardiomiopatía hipertrófica", "Problemas renales"],
     "curiosidades": ["Originario de Noruega", "Adaptado a climas fríos con pelaje espeso"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Norwegian_Forest_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Noruego.png"
   },
   {
     "id": "18",
@@ -195,7 +195,7 @@
     "cuidados": ["Protección contra el frío", "Juegos interactivos", "Revisiones veterinarias"],
     "salud": ["Problemas digestivos", "Sensibilidad al clima"],
     "curiosidades": ["Originario de Reino Unido", "Conocido por su pelaje rizado muy corto"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cornish_Rex_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Cornish%E2%80%AFRex.png"
   },
   {
     "id": "19",
@@ -206,7 +206,7 @@
     "cuidados": ["Protección contra el frío", "Juegos frecuentes", "Cepillado ocasional"],
     "salud": ["Problemas cardíacos", "Dermatitis"],
     "curiosidades": ["Originario de Reino Unido", "Conocido por sus orejas grandes y pelaje rizado"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Devon_Rex_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Devon%20Rex.png"
   },
   {
     "id": "20",
@@ -217,7 +217,7 @@
     "cuidados": ["Ejercicio moderado", "Juegos interactivos", "Cepillado semanal"],
     "salud": ["Cardiomiopatía hipertrófica", "Problemas dentales"],
     "curiosidades": ["Originario de EE.UU.", "Conocido por su pelaje manchado similar al de un ocelote"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ocicat_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Ocicat.png"
   },
   {
     "id": "21",
@@ -228,7 +228,7 @@
     "cuidados": ["Juegos interactivos", "Compañía constante", "Cepillado ocasional"],
     "salud": ["Problemas respiratorios", "Cardiomiopatía hipertrófica"],
     "curiosidades": ["Cruce entre Siamés y Burmés", "Conocido por sus ojos aqua"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Tonkinese_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Tonkin%C3%A9s.png"
   },
   {
     "id": "22",
@@ -239,18 +239,18 @@
     "cuidados": ["Cepillado regular", "Juegos interactivos", "Compañía constante"],
     "salud": ["Problemas respiratorios", "Cardiomiopatía hipertrófica"],
     "curiosidades": ["Variante de pelo largo del Siamés", "Conocido por su elegancia y ojos azules"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Balinese_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Balin%C3%A9s.png"
   },
   {
     "id": "23",
-    "nombre": "Oriental de pelo largo",
+    "nombre": "Oriental pelo largo",
     "especie": "Gato",
     "caracteristicas": { "tamano": "Mediano", "peso": "3–6 kg", "vida": "12–15 años" },
     "temperamento": ["Vocal", "Sociable", "Cariñoso"],
     "cuidados": ["Cepillado frecuente", "Compañía constante", "Juegos moderados"],
     "salud": ["Problemas hepáticos", "Atrofia progresiva de retina"],
     "curiosidades": ["Relacionado con el Siamés", "Conocido por su variedad de colores y pelo semilargo"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Oriental_Longhair_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Oriental%E2%80%AFpelo%E2%80%AFlargo.png"
   },
   {
     "id": "24",
@@ -261,7 +261,7 @@
     "cuidados": ["Cepillado semanal", "Ejercicio moderado", "Dieta balanceada"],
     "salud": ["Obesidad", "Problemas dentales"],
     "curiosidades": ["Originario de EE.UU.", "Popular por su resistencia y longevidad"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/American_Shorthair_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/American%20Shorthair.png"
   },
   {
     "id": "25",
@@ -272,7 +272,7 @@
     "cuidados": ["Cepillado semanal", "Ejercicio moderado", "Revisiones veterinarias"],
     "salud": ["Problemas dentales", "Obesidad"],
     "curiosidades": ["Originario de Francia", "Conocido por su pelaje azul grisáceo y ojos dorados"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chartreux_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Chartreux.png"
   },
   {
     "id": "26",
@@ -283,7 +283,7 @@
     "cuidados": ["Ejercicio frecuente", "Espacios amplios", "Cepillado semanal"],
     "salud": ["Problemas cardíacos", "Obesidad"],
     "curiosidades": ["Originario de Turquía", "Conocido por su gusto por el agua"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Turkish_Van_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Turco%20Van.png"
   },
   {
     "id": "27",
@@ -294,7 +294,7 @@
     "cuidados": ["Cepillado frecuente", "Ejercicio moderado", "Revisiones veterinarias"],
     "salud": ["Problemas cardíacos", "Atrofia progresiva de retina"],
     "curiosidades": ["Originario de Ankara, Turquía", "Conocido por su pelaje blanco y ojos heterocromos"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Turkish_Angora_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Angora%20Turco.png"
   },
   {
     "id": "28",
@@ -305,7 +305,7 @@
     "cuidados": ["Protección contra el frío", "Baños regulares", "Alimentación balanceada"],
     "salud": ["Problemas cardíacos", "Dermatitis"],
     "curiosidades": ["Originario de Rusia", "Puede tener poco pelo o ser completamente lampiño"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Peterbald_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Peterbald.png"
   },
   {
     "id": "29",
@@ -316,7 +316,7 @@
     "cuidados": ["Espacios amplios", "Ejercicio intenso", "Juegos interactivos"],
     "salud": ["Problemas cardíacos", "Obesidad"],
     "curiosidades": ["Cruce entre gato doméstico y serval africano", "Conocido por su tamaño y pelaje manchado"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Savannah_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Savannah.png"
   },
   {
     "id": "30",
@@ -327,7 +327,7 @@
     "cuidados": ["Alimentación balanceada", "Ejercicio moderado", "Revisiones veterinarias"],
     "salud": ["Varía según genética", "Obesidad común"],
     "curiosidades": ["El más común en Latinoamérica", "No pertenece a una raza específica"],
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Domestic_cat.jpg"
+    "imagen_url": "https://raw.githubusercontent.com/bassamasfur/images_mascotas/main/gatos/Dom%C3%A9stico%20mestizo.png"
   },
   {
     "id": "31",
